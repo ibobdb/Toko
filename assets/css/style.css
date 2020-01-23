@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* Global */
+body {
+
+	font-family: roboto;
+	font-size: 0.9rem;
+	background-color: #ececec;
+}
+
+/* login */
+.box {
+	margin: 170px auto;
+	width: 400px;
+
+	border: 1px solid #ccc;
+
+}
+
+.top-bar .navbar {
+
+	height: 2rem;
+}
+
+
+
+.top-bar .dropdown-menu a:hover {
+	background-color: #343a40;
+	color: #f8f9fa;
+}
